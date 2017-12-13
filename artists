@@ -1,0 +1,22 @@
+{ "artists": [
+	
+	{"artist_name":"Mamamoo",
+  "artist_picture": "http://kprofiles.com/wp-content/uploads/Apink.jpg"
+		"songs": [
+			{"song_name":"Words Don't Come Easy",
+				"song_album": "Melting",
+			"song_lyrics":"Grabbing your body, your body uri kkiri"}
+		]
+	},
+
+	{"artist_name":"Apink",
+  "artist_picture": "http://kprofiles.com/wp-content/uploads/Apink.jpg"
+		"songs": [
+			
+			{"song_name":"Kok Kok",
+				"song_album": "Pink Up!",
+			"song_lyrics":"Mikkeulmikkeul."},
+		
+		]
+	}
+]}
